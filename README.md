@@ -33,3 +33,5 @@ twitterへの投稿も学習記録の投稿も学習記録をつける際に同�
 * 勉強時間の可視化(日ごとの学習時間を表示させる)
 * 1時間後や2時間後などにリマインドする通知機能。
 
+### 画面遷移図
+url: https://www.figma.com/file/caCOfdwmNMgu6Hil6nMfEy/learncli?type=design&node-id=0%3A1&mode=design&t=5oli2TxKm0LADc7H-1
